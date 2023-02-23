@@ -1,0 +1,13 @@
+name: regvis
+title: RegVis
+username: jbpost2@ncsu.edu
+account: jbpost2@ncsu.edu
+server: shiny.stat.ncsu.edu
+hostUrl: https://shiny.stat.ncsu.edu/__api__
+appId: 55
+bundleId: 84
+url: https://shiny.stat.ncsu.edu/jbpost2/RegVis/
+when: 1677180750.89375
+lastSyncTime: 1677180750.89377
+asMultiple: FALSE
+asStatic: FALSE
