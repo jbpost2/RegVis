@@ -2,13 +2,13 @@ library(shiny)
 library(shinydashboard)
 library(dplyr)
 library(ggplot2)
-library(plot3D)
+#library(plot3D)
 library(plotly)
 library(car)
 library(rgl)
 library(shinyRGL)
 
-data<-tbl_df(read.csv("data.csv",header=TRUE))
+data<-as_tibble(read.csv("data.csv",header=TRUE))
 data<-data[,c(-3:-1)]
 
 #function to get RHS of formula for two pred part

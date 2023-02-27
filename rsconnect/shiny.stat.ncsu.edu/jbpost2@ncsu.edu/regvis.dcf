@@ -5,9 +5,9 @@ account: jbpost2@ncsu.edu
 server: shiny.stat.ncsu.edu
 hostUrl: https://shiny.stat.ncsu.edu/__api__
 appId: 55
-bundleId: 84
+bundleId: 90
 url: https://shiny.stat.ncsu.edu/jbpost2/RegVis/
-when: 1677180750.89375
-lastSyncTime: 1677180750.89377
+when: 1677508286.59179
+lastSyncTime: 1677508286.5918
 asMultiple: FALSE
 asStatic: FALSE
